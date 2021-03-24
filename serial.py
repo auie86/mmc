@@ -1,7 +1,7 @@
 # -----------------
-# serial1.py - Serial line with M/M/c stations
+# serial1.py - 2-station serial line with M/M/c stations
 #
-# Jeff Smith - 2016-12-20
+# Jeff Smith - 2021-03-22
 #
 # -----------------
 import sys
